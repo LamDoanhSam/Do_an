@@ -1,0 +1,189 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color:darkseagreen;
+	color:black;
+	display: block;
+    text-align: center;
+}
+div{
+    display: inherit;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+#mainContainer{
+    margin-top: 50px;
+    border-radius: 0px;
+    border: 1px solid black;
+    background-color: #fff;
+    padding: 0px 0px 0px;
+    position: relative;
+    overflow: hidden;
+    width: 450px;
+    height: 470px;
+    margin-left: 450px;
+}
+.row{
+   margin-left: auto;
+   margin-right: auto;
+
+}
+
+.confirm{
+    display: flex;
+    justify-content: space-between;
+}
+
+.confirm-item {
+    margin: 10px 50px 10px 50px;
+    font-size: 15px;
+}
+
+.confirm-otp:hover{
+    color: red;
+}
+
+button{
+    margin: 0px;
+}
+.confirm-payment{
+    width: 130px;
+    height: 50px;
+    color: white;
+    background-color: forestgreen;
+    
+}
+
+.tryAgain{
+    font-size: 1.2rem;
+}
+
+.large-centered{
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+}
+.text-center{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+h2{
+    font-size: 25px;
+    font-style: normal;
+    color: red;
+
+}
+hr{
+    box-sizing: content-box;
+    overflow: hidden;
+    clear: both;
+    border-bottom: 1px soild black;
+    margin: 0px;
+}    
+hr.divider{
+    margin: 0px;
+    
+    
+}
+dl{
+    line-height: 25px;
+    margin: 0px;
+    padding: 0px;
+    list-style-position: outside;
+
+}  
+dl.mercDetails{
+    
+    margin: 0px;   
+}
+ dl.mercDetails .group{
+    float:left;
+    width: 100%;
+    font: arial;
+    font-size: 1.2rem;
+    color: black;
+    margin-left: 20px;
+    display: flex;
+   
+} 
+dl.mercDetails dd{
+    margin-left: 20px;
+    margin: 0px;
+    font-size: 15px;
+    font:arial;
+    color: black;
+    
+}
+
+.group-detail{
+    margin: 0 10px 0 10px;
+}
+
+form{
+    margin: 0px;
+    padding: 0px;
+    display: block;
+    width: 450px;
+    height: 300px;
+}
+fieldset{/*nhóm các thành phần liên quan với nhau trong form*/
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+}
+/* form div.page-heading{
+    border-bottom: 0px soild black;
+    margin-bottom: 10px;
+} */
+h6{
+    font-size: 25px;
+    font-style: normal;
+    text-align: center;
+    margin: 0px;
+}
+form h6.form-heading{
+    
+    color: blue;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    
+}
+p{
+   margin: 0px;
+   text-rendering: optimizeLegibility; 
+
+}
+form p.form-subheading{
+    line-height: 18px;
+    color:black;
+    font-size: 15px;
+}
+strong{
+    font-size: 18px;
+    color: black;
+}
+/* .row{
+
+} */
+.large-7{
+    width: 450px;
+    margin-bottom: 30px;
+
+}
+/* .columns{
+    float: left ;
+} */
+label{
+    display: inherit;
+    margin-bottom: 0px;
+    font-size: 18px;
+    color: black;
+}
+
+
+
+
+

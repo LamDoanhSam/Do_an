@@ -1,0 +1,268 @@
+#H1_1 {
+    
+    height: 65px;
+    width: 721px;
+  font-family: Comic Sans MS;
+  
+    background: rgba(0, 0, 0, 0) ;
+    color:#000;
+    
+   
+  }
+  
+  #A_1 {
+  
+    color: rgb(255, 255, 255);
+   
+    border: 0px none rgb(255, 255, 255);
+    font: 700 14px / 24px Verdana, Arial, sans-serif;
+   
+  }
+  
+  #BR_2 {
+    
+    color: rgb(255, 255, 255);
+    
+    font: 700 14px / 24px Verdana, Arial, sans-serif;
+    
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  #LI_1 {
+    
+    
+   
+    
+    
+    text-align: center;
+  width: 230px;
+    font: 14px / 24px Verdana, Arial, sans-serif;
+    
+    
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  .cgv-membership > ul.ui-tabs-nav li.ui-tabs-active {
+    background: none repeat scroll 0 0 #f59331;
+  }
+  .cgv-membership > ul.ui-tabs-nav li {
+    display: inline-table;
+    height: 60px;
+    padding: 5px 0px;
+    width: 32%;
+    background: #d7d2c3;
+    margin: 0 -3px 2px 0;
+    border: 1px solid #c6c6c6;
+    text-align: center;
+    cursor: pointer;
+    float: none;
+  }
+  
+  
+  
+  .cgv-membership {
+    float: left;
+    width: 100%;
+  }
+  
+  user agent stylesheet
+  div {
+    display: block;
+  }
+  
+  element.style {
+    display: block;
+  }
+  <style>
+  .cgv-membership > div {
+    background: url(../images/bg-user-top.png) no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    margin: 10px 20px 0 0px;
+    padding-top: 52px;
+    width: 567px;
+    float: left;
+  
+  }
+  
+  #DIV_1 {
+   background: rgba(0, 0, 0, 0) 
+    auto padding-box border-box;
+    padding: 52px 0px 0px;
+  }
+  
+  #DIV_2 {
+   
+   font: 700 20px / 18px "Helvetica Neue", Verdana, Arial, sans-serif;
+    margin: -30px 0px 0px;
+    color:#000;
+    padding: 0px 0px 15px 15px;
+  }
+  }
+  
+  #DIV_3 {
+     height: 500;	
+    width: 567px;
+    background: rgba(0, 0, 0, 0) url("https://www.cgv.vn/skin/frontend/cgv/default/images/bg-user-cen.jpg") repeat-y scroll 0px 0px / auto padding-box border-box;
+   
+    font: 14px / 18px "Helvetica Neue", Verdana, Arial, sans-serif;
+    
+    padding: 0px 15px;
+  }
+  #DIV_4 {
+    font: 700 20px / 18px "Helvetica Neue", Verdana, Arial, sans-serif;
+    margin: -30px 0px 0px;
+    color:#000;
+    padding: 0px 0px 15px 15px;
+  }
+  
+  #DIV_5 {
+    
+    width: 537px;
+    
+    font: 14px / 18px "Helvetica Neue", Verdana, Arial, sans-serif;
+    outline: rgb(34, 34, 34) none 0px;
+    padding: 20px;
+  }
+  
+  #P_6 {
+    
+    width: 497px;
+    font: 14px / 24px Verdana, Arial, sans-serif;
+    margin: 15px 0px 5px;
+  color:#66C;
+    
+  }
+  #P_70 {
+  
+  color:#636363;
+    font: 14px / 24px Verdana, Arial, sans-serif;
+    margin: 15px 0px 5px;
+  
+  
+  }
+  
+  #P_58{
+   
+   color: rgb(99, 99, 99);
+    margin: 15px 0px 5px;
+  }
+  
+  
+  
+  #TABLE_8 {
+    
+    font: 14px / 18px "Helvetica Neue", Verdana, Arial, sans-serif;
+    
+    
+  }
+  
+  
+  #TH_11 ,#TH_12, #TH_13,#TH_14,#TD_16,#TD_30{
+  text-align: center;
+  background:#39F;
+   
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  #STRONG_17, #STRONG_19, #STRONG_21, #STRONG_23, #STRONG_31, #STRONG_33, #STRONG_35, #STRONG_37 {
+   
+    font: 700 14px / 18px "Helvetica Neue", Verdana, Arial, sans-serif;
+      
+  }
+  
+  #TD_18, #TD_20, #TD_22, #TD_25,#TD_26,#TD_27,#TD_28,#TD_32,#TD_34,#TD_36,#TD_39,#TD_40,#TD_41,#TD_42 {
+   
+    font: 14px / 18px "Helvetica Neue", Verdana, Arial, sans-serif;
+   color: #000;
+   background:#F90;
+   text-align:center;
+    padding: 5px 4px;
+  }
+  
+  
+  
+  #TD_25, #TD_39 {
+   
+    font: 14px / 18px "Helvetica Neue", Verdana, Arial, sans-serif;
+    padding: 5px 4px;
+  }
+  
+  
+  
+  
+  
+  
+  
+  #P_43, #P_47, #P_56 {
+     font: 14px / 24px Verdana, Arial, sans-serif;
+    margin: 15px 0px 5px;
+  
+  }
+  
+  
+  #P_45, #P_46, #P_50, #P_54 {
+   
+    color: rgb(99, 99, 99);
+    
+    margin: 15px 0px 5px;
+  
+  }
+  
+  
+  
+  #P_49, #P_52, #P_57, #P_60 {
+    
+   
+    
+    margin: 15px 0px 5px;
+   
+  }
+  p {
+    margin: 0 0 10px;
+    color: #636363;
+  }
+  
+  
+  
+  #P_53, #P_59 {
+   
+    color: rgb(99, 99, 99);
+    column-rule-color: rgb(99, 99, 99);
+    
+    margin: 15px 0px 5px;
+   
+  }
+  #H3_45 {
+   color: rgb(99, 99, 99);
+    column-rule-color: rgb(99, 99, 99);
+    
+    margin: 15px 0px 5px;
+   }
+
+
+
+
+
+
+
+
+
+
